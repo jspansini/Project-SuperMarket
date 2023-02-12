@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fotomovel\\Desktop\\Dev Jobs\\08 - DevIO\\AppWebMVC\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\Fotomovel\\Desktop\\Dev Jobs\\08 - DevIO\\Project-SuperMarket\\AppWebMVC\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "C:\\Users\\Fotomovel\\Desktop\\Dev Jobs\\08 - DevIO\\AppWebMVC\\MyApp\\MyApp.csproj",
+      "projectPath": "C:\\Users\\Fotomovel\\Desktop\\Dev Jobs\\08 - DevIO\\Project-SuperMarket\\AppWebMVC\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\Fotomovel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fotomovel\\Desktop\\Dev Jobs\\08 - DevIO\\AppWebMVC\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\Fotomovel\\Desktop\\Dev Jobs\\08 - DevIO\\Project-SuperMarket\\AppWebMVC\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fotomovel\\AppData\\Roaming\\NuGet\\NuGet.Config",
