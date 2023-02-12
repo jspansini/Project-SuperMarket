@@ -7,7 +7,7 @@ namespace MyApp.Models
     {
 
         [Key]
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         [Required(ErrorMessage = "One product needs a name")]
         [StringLength(60, MinimumLength = 3)]
